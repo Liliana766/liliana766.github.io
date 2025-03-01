@@ -13,14 +13,18 @@ subtitle: Cennik na nasze popularne usługi
 <style>
 .columns {
   display: flex;
-  gap: 20px;
+  gap: 30px;
 }
 .column {
   flex: 1;
-  padding: 15px;
+  padding: 20px;
   background: #f9f9f9;
   border-radius: 10px;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+  text-align: center;
+  color: #333;
 }
 </style>
 
@@ -34,22 +38,22 @@ subtitle: Cennik na nasze popularne usługi
 🥳 Gadżety i akcesoria dla gości  
 🎤 Obsługa podczas eventu  
 
-🔹 **Pakiety:**  
-**🎈 Standard – 1000 PLN**  
-- ⏳ 2 godziny wynajmu  
-- 🖼️ Klasyczne szablony zdjęć  
-- 📷 Wydruki na miejscu  
+### 🔹 Pakiety  
+#### 🎈 Standard – 1000 PLN  
+- ⏳ **Czas wynajmu:** 2 godziny  
+- 🖼️ **Szablony:** Klasyczne  
+- 📷 **Zdjęcia:** Wydruki na miejscu  
 
-**🎊 Premium – 1250 PLN**  
-- ⏳ 3 godziny wynajmu  
-- 🎭 Więcej gadżetów i rekwizytów  
-- 🎨 Personalizowane szablony zdjęć  
+#### 🎊 Premium – 1250 PLN  
+- ⏳ **Czas wynajmu:** 3 godziny  
+- 🎭 **Gadżety:** Więcej rekwizytów  
+- 🎨 **Szablony:** Personalizowane  
 
-**🎆 VIP – 1500 PLN**  
-- ⏳ 4 godziny wynajmu  
-- 🎞️ Dodatkowe atrakcje (np. animacje wideo)  
-- 📲 Możliwość udostępniania zdjęć online  
-- 🍾 Luksusowa obsługa  
+#### 🎆 VIP – 1500 PLN  
+- ⏳ **Czas wynajmu:** 4 godziny  
+- 🎞️ **Atrakcje:** Animacje wideo  
+- 📲 **Udostępnianie:** Online w czasie rzeczywistym  
+- 🍾 **Obsługa:** Luksusowa  
 </div>
 
 <div class="column">
@@ -58,32 +62,32 @@ subtitle: Cennik na nasze popularne usługi
 💫 Efekty specjalne i personalizacja  
 📲 Natychmiastowe udostępnianie materiałów  
 
-🔹 **Pakiety:**  
-**🎈 Standard – 1100 PLN**  
-- ⏳ 2 godziny nagrywania  
-- 🎞️ Klasyczne efekty i edycja  
+### 🔹 Pakiety  
+#### 🎈 Standard – 1100 PLN  
+- ⏳ **Czas nagrywania:** 2 godziny  
+- 🎞️ **Efekty:** Klasyczne  
 
-**🎊 Premium – 1400 PLN**  
-- ⏳ 3 godziny nagrywania  
-- 🎆 Dodatkowe efekty wizualne  
+#### 🎊 Premium – 1400 PLN  
+- ⏳ **Czas nagrywania:** 3 godziny  
+- 🎆 **Dodatkowe efekty wizualne**  
 
-**🎆 VIP – 1600 PLN**  
-- ⏳ 4 godziny nagrywania  
-- 🎬 Ekskluzywne video 360°  
-- 🔮 Tworzenie efektów 3D  
-- 📽️ Film w jakości HD  
+#### 🎆 VIP – 1600 PLN  
+- ⏳ **Czas nagrywania:** 4 godziny  
+- 🎬 **Ekskluzywne video 360°**  
+- 🔮 **Efekty 3D**  
+- 📽️ **Film w jakości HD**  
 </div>
 
 <div class="column">
 <h2>🎁 Dodatki</h2>
 🔹 **Dodatkowe opcje:**  
-- ⏳ Dodatkowe godziny wynajmu – **250 PLN/h**  
-- 🎨 Personalizowane tło – **200 PLN**  
-- 🏆 Własne logo na zdjęciach – **300 PLN**  
-- 🎊 Dekoracje tematyczne – **500 PLN**  
-- 🎬 Dodatkowy klip wideo – **200 PLN**  
-- ⏳ Dodatkowy czas wynajmu – **300 PLN/h**  
-- 🎁 Wideo z najlepszymi momentami – **300 PLN**  
+- ⏳ **Dodatkowe godziny wynajmu** – **250 PLN/h**  
+- 🎨 **Personalizowane tło** – **200 PLN**  
+- 🏆 **Własne logo na zdjęciach** – **300 PLN**  
+- 🎊 **Dekoracje tematyczne** – **500 PLN**  
+- 🎬 **Dodatkowy klip wideo** – **200 PLN**  
+- ⏳ **Dodatkowy czas wynajmu** – **300 PLN/h**  
+- 🎁 **Wideo z najlepszymi momentami** – **300 PLN**  
 </div>
 
 </div>
