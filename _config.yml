@@ -10,21 +10,22 @@
 ############################
 
 # Name of website
-title: Lila
+title: FOTOFUZJA
 
 # Your name to show in the footer
-author: Some Person
+author: Liliana Pająk
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  O mnie: "aboutme"
+  Galeria: "gallery"
+  Cennik: "price"
+  FAQ: "guestion"
+  Kontakt: "contact"
+  
 
 ################
 # --- Logo --- #
