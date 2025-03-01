@@ -10,7 +10,24 @@ subtitle: Cennik na nasze popularne usługi
 
 ---
 
-## 🎭 Fotolustro  
+<style>
+.columns {
+  display: flex;
+  gap: 20px;
+}
+.column {
+  flex: 1;
+  padding: 15px;
+  background: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+</style>
+
+<div class="columns">
+
+<div class="column">
+<h2>🎭 Fotolustro</h2>
 🎆 Nowoczesne, interaktywne lustro  
 📸 Wydruk zdjęć w kilka sekund  
 🎨 Personalizowane szablony  
@@ -24,27 +41,19 @@ subtitle: Cennik na nasze popularne usługi
 - 📷 Wydruki na miejscu  
 
 **🎊 Premium – 1250 PLN**  
-- ⏳ 3 godzin wynajmu  
+- ⏳ 3 godziny wynajmu  
 - 🎭 Więcej gadżetów i rekwizytów  
 - 🎨 Personalizowane szablony zdjęć  
 
 **🎆 VIP – 1500 PLN**  
-- ⏳ 4 godzin wynajmu  
+- ⏳ 4 godziny wynajmu  
 - 🎞️ Dodatkowe atrakcje (np. animacje wideo)  
-- 📲 Możliwość udostępniania zdjęć online w czasie rzeczywistym  
+- 📲 Możliwość udostępniania zdjęć online  
 - 🍾 Luksusowa obsługa  
+</div>
 
-🔹 **Dodatkowe opcje:**  
-- ⏳ Dodatkowe godziny wynajmu – **250 PLN/h**  
-- 🎨 Personalizowane tło – **200 PLN**  
-- 🏆 Własne logo na zdjęciach – **300 PLN**  
-- 🎊 Dekoracje tematyczne – **500 PLN** 
-
-  
-
----
-
-## 🎥 Fotobudka 360°  
+<div class="column">
+<h2>🎥 Fotobudka 360°</h2>
 📽️ Nagrywanie dynamicznych wideo w 360°  
 💫 Efekty specjalne i personalizacja  
 📲 Natychmiastowe udostępnianie materiałów  
@@ -55,26 +64,36 @@ subtitle: Cennik na nasze popularne usługi
 - 🎞️ Klasyczne efekty i edycja  
 
 **🎊 Premium – 1400 PLN**  
-- ⏳ 3 godzin nagrywania  
-- 🎆 Dodatkowe efekty wizualne 
+- ⏳ 3 godziny nagrywania  
+- 🎆 Dodatkowe efekty wizualne  
 
 **🎆 VIP – 1600 PLN**  
-- ⏳ 4 godzin nagrywania  
-- 🎬 Ekskluzywne video 360° 
+- ⏳ 4 godziny nagrywania  
+- 🎬 Ekskluzywne video 360°  
 - 🔮 Tworzenie efektów 3D  
 - 📽️ Film w jakości HD  
+</div>
 
+<div class="column">
+<h2>🎁 Dodatki</h2>
 🔹 **Dodatkowe opcje:**  
-- 🎬 Dodatkowy klip wideo – **200 PLN**   
+- ⏳ Dodatkowe godziny wynajmu – **250 PLN/h**  
+- 🎨 Personalizowane tło – **200 PLN**  
+- 🏆 Własne logo na zdjęciach – **300 PLN**  
+- 🎊 Dekoracje tematyczne – **500 PLN**  
+- 🎬 Dodatkowy klip wideo – **200 PLN**  
 - ⏳ Dodatkowy czas wynajmu – **300 PLN/h**  
 - 🎁 Wideo z najlepszymi momentami – **300 PLN**  
+</div>
+
+</div>
 
 ---
 
 ## 🎟️ Skontaktuj się z nami!  
 📧 **E-mail:** kontakt@fotofuzja.pl  
 📞 **Telefon:** 123 456 789  
-🌐 **Strona na facebooku:** [www.fotofuzja.pl](http://www.fotofuzja.pl)  
+🌐 **Strona na Facebooku:** [www.fotofuzja.pl](http://www.fotofuzja.pl)  
 
 🎯 **Masz specjalne życzenie?** Stworzymy ofertę dostosowaną do Twoich potrzeb!  
 📅 **Sprawdź dostępność terminu i zarezerwuj już dziś!**  
