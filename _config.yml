@@ -53,9 +53,10 @@ round-avatar: true
 social-network-links:
   email: "fotofuzja360@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: Lila1234567889
-  # github: daattali
-  #twitter: daattali
+  facebook: lila1234567889
+  instagram: liliana7743
+# github: daattali
+# twitter: daattali
 # patreon: DeanAttali
 # youtube: "@daattali"
 # whatsapp: 15551212
@@ -65,7 +66,6 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-   instagram: liliana7743
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
