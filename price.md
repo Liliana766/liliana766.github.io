@@ -17,8 +17,7 @@ subtitle: Cennik na nasze popularne usługi
 ---
 
 ### Fotolustro
-| **Pakiet**      | **Standard**                                            | **Premium**                                                | **VIP**                                                   |
-|-----------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| **Pakiet**      | **Standard**                                            | **Premium**                                                | **VIP**                                                   ||
 | **Opis**        | ✅ Nowoczesne, interaktywne lustro<br>✅ Wydruk zdjęć w kilka sekund<br>✅ Personalizowane szablony<br>✅ Gadżety i akcesoria dla gości | ✅ Wszystko z pakietu Standard<br>✅ Dodatkowe gadżety<br>✅ Personalizacja szablonów<br>✅ Ustalamy scenariusz dla Twojego wydarzenia | ✅ Wszystko z pakietu Premium<br>✅ Dodatkowe atrakcje, np. animacje wideo<br>✅ Możliwość wysyłania zdjęć online w czasie rzeczywistym<br>✅ Luksusowa obsługa |
 | **Czas wynajmu**| 4 godziny                                              | 6 godzin                                                  | 8 godzin                                                  |
 | **Cena**        | **1000 PLN**                                            | **1500 PLN**                                               | **2000 PLN**                                              |
@@ -27,8 +26,7 @@ subtitle: Cennik na nasze popularne usługi
 ---
 
 ### Fotobudka 360°
-| **Pakiet**      | **Standard**                                            | **Premium**                                                | **VIP**                                                   |
-|-----------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| **Pakiet**      | **Standard**                                            | **Premium**                                                | **VIP**                                                   ||
 | **Opis**        | ✅ Nagrywanie wideo w 360°<br>✅ Interaktywna zabawa z efektami<br>✅ Wydruk zdjęć natychmiastowy<br>✅ Wideo z podziękowaniami dla gości | ✅ Wszystko z pakietu Standard<br>✅ Edycja video<br>✅ Dodatkowe efekty wizualne<br>✅ Wideo z personalizowanym podkładem muzycznym | ✅ Wszystko z pakietu Premium<br>✅ Ekskluzywna sesja 360° z profesjonalnym operatorem<br>✅ Możliwość tworzenia efektów 3D<br>✅ Film w jakości HD z wydarzenia |
 | **Czas wynajmu**| 4 godziny                                              | 6 godzin                                                  | 8 godzin                                                  |
 | **Cena**        | **1200 PLN**                                            | **1700 PLN**                                               | **2200 PLN**                                              |
@@ -36,13 +34,6 @@ subtitle: Cennik na nasze popularne usługi
 
 ---
 
-### Aluminiowe zdjęcia
-| **Pakiet**      | **Standard**                                            | **Premium**                                                | **VIP**                                                   |
-|-----------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
-| **Opis**        | ✅ Wysokiej jakości zdjęcia w formacie A4<br>✅ Możliwość wyboru personalizowanego tła<br>✅ Druk w wysokiej rozdzielczości | ✅ Wszystko z pakietu Standard<br>✅ Możliwość zamówienia zdjęć w większych formatach<br>✅ Obrazy na płótnie lub metalowe | ✅ Wszystko z pakietu Premium<br>✅ Wydruk na profesjonalnym papierze premium<br>✅ Ekskluzywna rama na zdjęcia<br>✅ Stworzenie kolekcji zdjęć na specjalne zamówienie |
-| **Cena za zdjęcie** | **50 PLN**                                             | **80 PLN**                                                 | **120 PLN**                                                |
-
----
 
 ## Kontakt
 📧 **E-mail**: kontakt@fotofuzja.pl  
