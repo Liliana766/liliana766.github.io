@@ -10,147 +10,50 @@ subtitle: Cennik na nasze popularne usługi
 
 ---
 
-# 🎊 Cennik usług Fotofuzja  
+# Cennik usług Fotofuzja
 
-**Fotofuzja** to niezapomniane atrakcje na Twoje imprezy! Oferujemy **Fotolustro**, **Fotobudkę 360°** oraz **Dodatki** – idealne na wesela, urodziny, eventy firmowe i inne wyjątkowe okazje.  
-
----
-
-<style>
-.columns {
-  display: flex;
-  gap: 50px;
-}
-.column {
-  flex: 1;
-  padding: 25px;
-  background: #f9f9f9;
-  border-radius: 10px;
-  box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.1);
-  min-width: 300px;
-}
-h2 {
-  text-align: center;
-  color: #333;
-}
-</style>
-
-<div class="columns">
-
-<div class="column">
-<h2>🎭 Fotolustro</h2>
-
-🎆 Nowoczesne, interaktywne lustro  
-
-📸 Wydruk zdjęć w kilka sekund  
-
-🎨 Personalizowane szablony  
-
-🥳 Gadżety i akcesoria dla gości  
-
-🎤 Obsługa podczas eventu  
+**Fotofuzja** to firma, która dostarcza niezapomniane atrakcje na Twoje imprezy! Poniżej znajdziesz szczegółowy cennik na nasze popularne usługi: **Fotolustro**, **Fotobudka 360°**, oraz **Aluminiowe zdjęcia**.
 
 ---
 
-### 🔹 Pakiety  
-
-#### 🎈 Standard – 1000 PLN  
-⏳ **Czas wynajmu:** 2 godziny  
-
-🖼️ **Szablony:** Klasyczne  
-
-📷 **Zdjęcia:** Wydruki na miejscu  
-
----
-
-#### 🎊 Premium – 1250 PLN  
-⏳ **Czas wynajmu:** 3 godziny  
-
-🎭 **Gadżety:** Więcej rekwizytów  
-
-🎨 **Szablony:** Personalizowane  
+### Fotolustro
+| **Pakiet**      | **Standard**                                            | **Premium**                                                | **VIP**                                                   |
+|-----------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| **Opis**        | ✅ Nowoczesne, interaktywne lustro<br>✅ Wydruk zdjęć w kilka sekund<br>✅ Personalizowane szablony<br>✅ Gadżety i akcesoria dla gości | ✅ Wszystko z pakietu Standard<br>✅ Dodatkowe gadżety<br>✅ Personalizacja szablonów<br>✅ Ustalamy scenariusz dla Twojego wydarzenia | ✅ Wszystko z pakietu Premium<br>✅ Dodatkowe atrakcje, np. animacje wideo<br>✅ Możliwość wysyłania zdjęć online w czasie rzeczywistym<br>✅ Luksusowa obsługa |
+| **Czas wynajmu**| 4 godziny                                              | 6 godzin                                                  | 8 godzin                                                  |
+| **Cena**        | **1000 PLN**                                            | **1500 PLN**                                               | **2000 PLN**                                              |
+| **Dodatkowe opcje** | -                                                   | 📸 Dodatkowe godziny wynajmu – 250 PLN/h<br>🎉 Personalizowane tło – 200 PLN<br>🎤 Mikrofon bezprzewodowy – 300 PLN | 🎤 DJ na żywo – 1200 PLN<br>💍 Własne logo na zdjęciach – 300 PLN<br>🎈 Dekoracje tematyczne – 500 PLN |
 
 ---
 
-#### 🎆 VIP – 1500 PLN  
-⏳ **Czas wynajmu:** 4 godziny  
-
-🎞️ **Atrakcje:** Animacje wideo  
-
-📲 **Udostępnianie:** Online w czasie rzeczywistym  
-
-🍾 **Obsługa:** Luksusowa  
-</div>
-
-<div class="column">
-<h2>🎥 Fotobudka 360°</h2>
-
-📽️ Nagrywanie dynamicznych wideo w 360°  
-
-💫 Efekty specjalne i personalizacja  
-
-📲 Natychmiastowe udostępnianie materiałów  
+### Fotobudka 360°
+| **Pakiet**      | **Standard**                                            | **Premium**                                                | **VIP**                                                   |
+|-----------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| **Opis**        | ✅ Nagrywanie wideo w 360°<br>✅ Interaktywna zabawa z efektami<br>✅ Wydruk zdjęć natychmiastowy<br>✅ Wideo z podziękowaniami dla gości | ✅ Wszystko z pakietu Standard<br>✅ Edycja video<br>✅ Dodatkowe efekty wizualne<br>✅ Wideo z personalizowanym podkładem muzycznym | ✅ Wszystko z pakietu Premium<br>✅ Ekskluzywna sesja 360° z profesjonalnym operatorem<br>✅ Możliwość tworzenia efektów 3D<br>✅ Film w jakości HD z wydarzenia |
+| **Czas wynajmu**| 4 godziny                                              | 6 godzin                                                  | 8 godzin                                                  |
+| **Cena**        | **1200 PLN**                                            | **1700 PLN**                                               | **2200 PLN**                                              |
+| **Dodatkowe opcje** | -                                                   | 🎬 Dodatkowy klip wideo – 500 PLN<br>🎶 Spersonalizowany podkład muzyczny – 300 PLN | 📸 Dodatkowy czas wynajmu – 250 PLN/h<br>🎁 Wideo z najlepszymi momentami – 600 PLN |
 
 ---
 
-### 🔹 Pakiety  
-
-#### 🎈 Standard – 1100 PLN  
-⏳ **Czas nagrywania:** 2 godziny  
-
-🎞️ **Efekty:** Klasyczne  
-
----
-
-#### 🎊 Premium – 1400 PLN  
-⏳ **Czas nagrywania:** 3 godziny  
-
-🎆 **Dodatkowe efekty wizualne**  
+### Aluminiowe zdjęcia
+| **Pakiet**      | **Standard**                                            | **Premium**                                                | **VIP**                                                   |
+|-----------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| **Opis**        | ✅ Wysokiej jakości zdjęcia w formacie A4<br>✅ Możliwość wyboru personalizowanego tła<br>✅ Druk w wysokiej rozdzielczości | ✅ Wszystko z pakietu Standard<br>✅ Możliwość zamówienia zdjęć w większych formatach<br>✅ Obrazy na płótnie lub metalowe | ✅ Wszystko z pakietu Premium<br>✅ Wydruk na profesjonalnym papierze premium<br>✅ Ekskluzywna rama na zdjęcia<br>✅ Stworzenie kolekcji zdjęć na specjalne zamówienie |
+| **Cena za zdjęcie** | **50 PLN**                                             | **80 PLN**                                                 | **120 PLN**                                                |
 
 ---
 
-#### 🎆 VIP – 1600 PLN  
-⏳ **Czas nagrywania:** 4 godziny  
-
-🎬 **Ekskluzywne video 360°**  
-
-🔮 **Efekty 3D**  
-
-📽️ **Film w jakości HD**  
-</div>
-
-<div class="column">
-<h2>🎁 Dodatki</h2>
-
-🔹 **Dodatkowe opcje:**  
-
-⏳ **Dodatkowe godziny wynajmu** – **250 PLN/h**  
-
-🎨 **Personalizowane tło** – **200 PLN**  
-
-🏆 **Własne logo na zdjęciach** – **300 PLN**  
-
-🎊 **Dekoracje tematyczne** – **500 PLN**  
-
-🎬 **Dodatkowy klip wideo** – **200 PLN**  
-
-⏳ **Dodatkowy czas wynajmu** – **300 PLN/h**  
-
-🎁 **Wideo z najlepszymi momentami** – **300 PLN**  
-</div>
-
-</div>
+## Kontakt
+📧 **E-mail**: kontakt@fotofuzja.pl  
+📞 **Telefon**: 123 456 789  
+🌐 **Strona internetowa**: [www.fotofuzja.pl](http://www.fotofuzja.pl)
 
 ---
 
-## 🎟️ Skontaktuj się z nami!  
+**Masz specjalne życzenie?**  
+Skontaktuj się z nami, a stworzymy ofertę dopasowaną do Twoich potrzeb!
 
-📧 **E-mail:** kontakt@fotofuzja.pl  
+**Sprawdź dostępność terminu!**  
+Zarezerwuj termin na Twoje niezapomniane wydarzenie już teraz!
 
-📞 **Telefon:** 123 456 789  
-
-🌐 **Strona na Facebooku:** [www.fotofuzja.pl](http://www.fotofuzja.pl)  
-
-🎯 **Masz specjalne życzenie?** Stworzymy ofertę dostosowaną do Twoich potrzeb!  
-
-📅 **Sprawdź dostępność terminu i zarezerwuj już dziś!**  
