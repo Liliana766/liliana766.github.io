@@ -6,7 +6,7 @@ subtitle: Cennik na nasze popularne usługi
 
 # 🎊 Cennik usług Fotofuzja  
 
-**Fotofuzja** to niezapomniane atrakcje na Twoje imprezy! Oferujemy **Fotolustro**, **Fotobudkę 360°** oraz **Aluminiowe zdjęcia** – idealne na wesela, urodziny, eventy firmowe i inne wyjątkowe okazje.  
+**Fotofuzja** to niezapomniane atrakcje na Twoje imprezy! Oferujemy **Fotolustro**, **Fotobudkę 360°** oraz **Dodatki** – idealne na wesela, urodziny, eventy firmowe i inne wyjątkowe okazje.  
 
 ---
 
@@ -19,18 +19,17 @@ subtitle: Cennik na nasze popularne usługi
 
 🔹 **Pakiety:**  
 **🎈 Standard – 1000 PLN**  
-- ⏳ 4 godziny wynajmu  
+- ⏳ 2 godziny wynajmu  
 - 🖼️ Klasyczne szablony zdjęć  
 - 📷 Wydruki na miejscu  
 
-**🎊 Premium – 1500 PLN**  
-- ⏳ 6 godzin wynajmu  
+**🎊 Premium – 1200 PLN**  
+- ⏳ 3 godzin wynajmu  
 - 🎭 Więcej gadżetów i rekwizytów  
 - 🎨 Personalizowane szablony zdjęć  
-- 🎬 Ustalenie scenariusza wydarzenia  
 
-**🎆 VIP – 2000 PLN**  
-- ⏳ 8 godzin wynajmu  
+**🎆 VIP – 1500 PLN**  
+- ⏳ 4 godzin wynajmu  
 - 🎞️ Dodatkowe atrakcje (np. animacje wideo)  
 - 📲 Możliwość udostępniania zdjęć online w czasie rzeczywistym  
 - 🍾 Luksusowa obsługa  
@@ -38,10 +37,10 @@ subtitle: Cennik na nasze popularne usługi
 🔹 **Dodatkowe opcje:**  
 - ⏳ Dodatkowe godziny wynajmu – **250 PLN/h**  
 - 🎨 Personalizowane tło – **200 PLN**  
-- 🎤 Mikrofon bezprzewodowy – **300 PLN**  
-- 🎧 DJ na żywo – **1200 PLN**  
 - 🏆 Własne logo na zdjęciach – **300 PLN**  
-- 🎊 Dekoracje tematyczne – **500 PLN**  
+- 🎊 Dekoracje tematyczne – **500 PLN** 
+
+  
 
 ---
 
@@ -52,9 +51,30 @@ subtitle: Cennik na nasze popularne usługi
 
 🔹 **Pakiety:**  
 **🎈 Standard – 1200 PLN**  
-- ⏳ 4 godziny nagrywania  
+- ⏳ 2 godziny nagrywania  
 - 🎞️ Klasyczne efekty i edycja  
 
-**🎊 Premium – 1700 PLN**  
-- ⏳ 6 godzin nagrywania  
-- 🎆 Dodatkowe efekty w
+**🎊 Premium – 1500 PLN**  
+- ⏳ 3 godzin nagrywania  
+- 🎆 Dodatkowe efekty wizualne 
+
+**🎆 VIP – 1800 PLN**  
+- ⏳ 4 godzin nagrywania  
+- 🎬 Ekskluzywne video 360° 
+- 🔮 Tworzenie efektów 3D  
+- 📽️ Film w jakości HD  
+
+🔹 **Dodatkowe opcje:**  
+- 🎬 Dodatkowy klip wideo – **200 PLN**   
+- ⏳ Dodatkowy czas wynajmu – **300 PLN/h**  
+- 🎁 Wideo z najlepszymi momentami – **300 PLN**  
+
+---
+
+## 🎟️ Skontaktuj się z nami!  
+📧 **E-mail:** kontakt@fotofuzja.pl  
+📞 **Telefon:** 123 456 789  
+🌐 **Strona na facebooku:** [www.fotofuzja.pl](http://www.fotofuzja.pl)  
+
+🎯 **Masz specjalne życzenie?** Stworzymy ofertę dostosowaną do Twoich potrzeb!  
+📅 **Sprawdź dostępność terminu i zarezerwuj już dziś!**  
