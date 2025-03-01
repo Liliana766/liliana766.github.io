@@ -23,7 +23,7 @@ subtitle: Cennik na nasze popularne usługi
 - 🖼️ Klasyczne szablony zdjęć  
 - 📷 Wydruki na miejscu  
 
-**🎊 Premium – 1200 PLN**  
+**🎊 Premium – 1250 PLN**  
 - ⏳ 3 godzin wynajmu  
 - 🎭 Więcej gadżetów i rekwizytów  
 - 🎨 Personalizowane szablony zdjęć  
@@ -50,15 +50,15 @@ subtitle: Cennik na nasze popularne usługi
 📲 Natychmiastowe udostępnianie materiałów  
 
 🔹 **Pakiety:**  
-**🎈 Standard – 1200 PLN**  
+**🎈 Standard – 1100 PLN**  
 - ⏳ 2 godziny nagrywania  
 - 🎞️ Klasyczne efekty i edycja  
 
-**🎊 Premium – 1500 PLN**  
+**🎊 Premium – 1400 PLN**  
 - ⏳ 3 godzin nagrywania  
 - 🎆 Dodatkowe efekty wizualne 
 
-**🎆 VIP – 1800 PLN**  
+**🎆 VIP – 1600 PLN**  
 - ⏳ 4 godzin nagrywania  
 - 🎬 Ekskluzywne video 360° 
 - 🔮 Tworzenie efektów 3D  
