@@ -12,43 +12,32 @@ subtitle: Cennik na nasze popularne usługi
 
 # Cennik usług Fotofuzja
 
-**Fotofuzja** to firma, która dostarcza niezapomniane atrakcje na Twoje imprezy! Poniżej znajdziesz szczegółowy cennik na nasze popularne usługi: **Fotolustro**, **Fotobudka 360°**, oraz **Dodatkowe opcje**.
+## Fotolustro – Twoja najlepsza imprezowa atrakcja! 📸✨
+Nasze fotolustro to interaktywna zabawa, która zachwyci każdego gościa! Dzięki personalizowanym szablonom, błyskawicznemu wydrukowi zdjęć i wielu dodatkom sprawisz, że każdy moment Twojego wydarzenia będzie wyjątkowy.
+
+### Pakiety Fotolustra:
+| Pakiet        | Zawartość                                     | Czas wynajmu  | Cena     |
+|---------------|-----------------------------------------------|--------------|----------|
+| 💎 **Standard** | - Fotolustro z podstawowymi funkcjami <br> - Wydruk zdjęć na miejscu <br> - Gadżety i akcesoria dla gości <br> - Obsługa na evencie | 4 godziny    | 2000 PLN |
+| 🌟 **Premium** | - Fotolustro z personalizowanymi szablonami <br> - Więcej gadżetów <br> - Możliwość udostępniania zdjęć online <br> - Obsługa na evencie | 6 godzin    | 2500 PLN |
+| 🔥 **VIP**     | - Fotolustro z zaawansowaną personalizacją <br> - Dodatkowe efekty specjalne <br> - Możliwość nagrania wideo <br> - Obsługa na evencie <br> - Dedykowany asystent do zdjęć | 8 godzin    | 3000 PLN |
 
 ---
 
-### Fotolustro
-| **Pakiet**      | **Standard**                                            | **Premium**                                                | **VIP**                                                   |
+## Fotobudka 360 – Kręć się w rytmie zabawy! 🎥💃🕺
+Fotobudka 360 to niezwykła atrakcja, która pozwala uchwycić każdy moment w pełnym obrocie! Świetnie sprawdza się na weselach, imprezach firmowych i urodzinach.
 
-|  📸 Nowoczesne, interaktywne lustro<br> 📸 Wydruk zdjęć w kilka sekund<br> Personalizowane szablony<br> 📸 Gadżety i akcesoria dla gości |  📸Wszystko z pakietu Standard<br> Dodatkowe gadżety<br>  📸Personalizacja szablonów<br> Ustalamy scenariusz dla Twojego wydarzenia |  Wszystko z pakietu Premium<br>  📸Dodatkowe atrakcje, np. animacje wideo<br>  📸 Możliwość wysyłania zdjęć online w czasie rzeczywistym<br> Luksusowa obsługa
- |
-| **Czas wynajmu**| 2 godziny                                              | 3godzin                                                  | 4 godzin                                                  |
-| **Cena**        | **1000 PLN**                                            | **1500 PLN**                                               | **2000 PLN**                                              |
-| **Dodatkowe opcje** | -                                                   | 📸 Dodatkowe godziny wynajmu – 250 PLN/h<br>🎉 Personalizowane tło – 200 PLN<br>🎤 Mikrofon bezprzewodowy – 300 PLN | 🎤 DJ na żywo – 1200 PLN<br>💍 Własne logo na zdjęciach – 300 PLN<br>🎈 Dekoracje tematyczne – 500 PLN |
-🎥, 📸, 🎤, 🎉
----
-
-### Fotobudka 360°
-| **Pakiet**      | **Standard**                                            | **Premium**                                                | **VIP**                                                   |
-
-| 🎥 Nagrywanie wideo w 360°<br>✨ Interaktywna zabawa z efektami<br>📸 Wydruk zdjęć natychmiastowy<br>🎬 Wideo z podziękowaniami dla gości | ✅ Wszystko z pakietu Standard<br>🎬 Edycja video<br>✨ Dodatkowe efekty wizualne<br>🎶 Wideo z personalizowanym podkładem muzycznym | ✅ Wszystko z pakietu Premium<br>🎥 Ekskluzywna sesja 360° z profesjonalnym operatorem<br>✨ Możliwość tworzenia efektów 3D<br>🎞️ Film w jakości HD z wydarzenia 
-|
-| **Czas wynajmu**| 4 godziny                                              | 6 godzin                                                  | 8 godzin                                                  |
-| **Cena**        | **1200 PLN**                                            | **1700 PLN**                                               | **2200 PLN**                                              |
-| **Dodatkowe opcje** | -                                                   | 🎬 Dodatkowy klip wideo – 500 PLN<br>🎶 Spersonalizowany podkład muzyczny – 300 PLN | 📸 Dodatkowy czas wynajmu – 250 PLN/h<br>🎁 Wideo z najlepszymi momentami – 600 PLN |
+### Pakiety Fotobudki 360:
+| Pakiet        | Zawartość                                     | Czas wynajmu  | Cena     |
+|---------------|-----------------------------------------------|--------------|----------|
+| 💎 **Standard** | - Fotobudka 360 z podstawową obsługą <br> - Wydruk zdjęć na miejscu <br> - Podstawowe efekty graficzne | 4 godziny    | 2500 PLN |
+| 🌟 **Premium** | - Fotobudka 360 z personalizowaną grafiką <br> - Możliwość udostępniania zdjęć online <br> - Więcej efektów graficznych <br> - Obsługa na evencie | 6 godzin    | 3000 PLN |
+| 🔥 **VIP**     | - Fotobudka 360 z pełną personalizacją <br> - Dodanie efektów wideo <br> - Obsługa na evencie <br> - Dedykowany asystent do zdjęć | 8 godzin    | 3500 PLN |
 
 ---
 
-## Kontakt
-📧 **E-mail**: kontakt@fotofuzja.pl  
-📞 **Telefon**: 123 456 789  
-🌐 **Strona internetowa**: [www.fotofuzja.pl](http://www.fotofuzja.pl)
+### Masz specjalne życzenie? 📩
+Stworzę ofertę dopasowaną do Twoich potrzeb! Skontaktuj się z nami i sprawdź dostępność terminu.
 
----
-
-**Masz specjalne życzenie?**  
-Skontaktuj się z nami, a stworzymy ofertę dopasowaną do Twoich potrzeb!
-
-**Sprawdź dostępność terminu!**  
-Zarezerwuj termin na Twoje niezapomniane wydarzenie już teraz!
 
 
