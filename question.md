@@ -4,12 +4,12 @@ title: FAQ
 subtitle: Najczęściej zadawane pytania
 cover-img: /assets/img/rrr.jpg
 ---
-<br>
+
 <details>
   <summary>1. Co to jest fotolustro?</summary>
   Fotolustro to interaktywne urządzenie łączące zabawę z profesjonalną fotografią. Jest to lustro, które pozwala gościom na robienie zdjęć, wybór tła, dodawanie efektów specjalnych i personalizowanie zdjęć za pomocą dotykowego ekranu.
 </details>
-<br>
+
 <details>
   <summary>2. Na jakich wydarzeniach najlepiej sprawdzi się fotolustro?</summary>
   Fotolustro doskonale sprawdza się na weselech, urodzinach, eventach firmowych, studniówkach, wieczorach panieńskich oraz innych imprezach okolicznościowych.
