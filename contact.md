@@ -1,6 +1,4 @@
 
-# 📞 **Kontakt - FotoFuzja** 📸  
-
 Jesteśmy gotowi, aby pomóc Ci zorganizować niezapomniane wydarzenie z fotolustrem i fotobudką 360!  
 
 Masz pytania, chcesz zarezerwować naszą usługę lub potrzebujesz więcej informacji? Skontaktuj się z nami!  
