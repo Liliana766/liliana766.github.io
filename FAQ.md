@@ -61,5 +61,5 @@ subtitle: Najczęściej zadawane pytania
 
 <details>
   <summary>12. Czy mogę dostosować szablony zdjęć do mojej imprezy?</summary>
-  Tak! Oferujemy możliwość personalizacji szablonów zdjęć, dodania tekstów, logo czy daty wydarzenia, aby zdjęcia były jeszcze bardziej wyjątkowe.
+  Tak! Oferujemy możliwość personalizacji szablonów zdjęć, dodania tekstów, logo czy daty wydarzenia, aby zdjęcia były jeszcze bardziej 
 </details>
