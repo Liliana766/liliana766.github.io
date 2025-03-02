@@ -79,6 +79,8 @@ subtitle: Najczęściej zadawane pytania
   Tak! Aby zapewnić dostępność fotolustra w wybranym terminie, zalecamy wczesną rezerwację. Skontaktuj się z nami jak najprędzej, aby zarezerwować termin.
 </details>
 
+<br>
+
 <details>
   <summary>12. Czy mogę dostosować szablony zdjęć do mojej imprezy?</summary>
   Tak! Oferujemy możliwość personalizacji szablonów zdjęć, dodania tekstów, logo czy daty wydarzenia, aby zdjęcia były jeszcze bardziej 
