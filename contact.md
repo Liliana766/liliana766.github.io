@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
+title: Kontakt
 subtitle: 
-cover-img: /assets/img/fotofuzja-background.png
+cover-img:
 ---
 
 # **Kontakt - FotoFuzja**
