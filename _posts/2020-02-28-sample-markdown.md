@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 📸 Fotobudka 360 – Nowy wymiar wspomnień! 🚀✨ 
+title: 📸Fotobudka 360 – Nowy wymiar wspomnień! ✨ 
 subtitle: Szukasz **unikalnej atrakcji** na swoje wydarzenie? Nasza **Fotobudka 360** to absolutny hit imprezowy! 🔥
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -10,7 +10,7 @@ mathjax: true
 author: Liliana Pająk
 ---
 
-# 🎥📸 Fotobudka 360 – Nowy wymiar wspomnień! 🚀✨  
+# 📸 Fotobudka 360 – Nowy wymiar wspomnień! ✨  
 
 Szukasz unikalnej atrakcji na swoje wydarzenie? Nasza Fotobudka 360 to absolutny hit imprezowy! 🔥  
 
