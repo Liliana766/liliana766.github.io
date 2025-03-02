@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Kontakt
-subtitle: 
+subtitle: Kontakt
 cover-img:
 ---
-
-# **Kontakt - FotoFuzja**
 
 Jesteśmy gotowi, aby pomóc Ci zorganizować niezapomniane wydarzenie z fotolustrem i fotobudką 360!  
 
