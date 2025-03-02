@@ -61,11 +61,12 @@ body > main {
 
 summary {
     font-weight: bold;  /* Pogrubienie punktu */
+    margin-top: 5px;
 }
 
 details {
     font-weight: normal;  /* Tekst rozsuwany (w obrębie <details>) bez pogrubienia */
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }
 p {
   line-height: 1.5;
