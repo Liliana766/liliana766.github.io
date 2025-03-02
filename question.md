@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 subtitle: Najczęściej zadawane pytania
-cover-img: /assets/img/rrr.png
+cover-img: /assets/img/rrr.jpg
 ---
 
 <details>
