@@ -8,4 +8,4 @@ subtitle: Cennik na nasze popularne usługi
 
 <br>
 
-<<img src="/assets/img/cennik-fotobudka360.jpg" alt="cennik-fotobudka360">
+<img src="/assets/img/cennik-fotobudka360.jpg" alt="cennik-fotobudka360">
