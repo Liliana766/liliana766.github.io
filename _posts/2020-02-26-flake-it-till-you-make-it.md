@@ -5,7 +5,7 @@ subtitle: Dodaj wyjątkowy akcent do swojej imprezy! Dzięki naszym dodatkowym o
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [album,tło,dojazd ]
+tags: [album,tło,dojazd]
 author: Liliana Pająk
 ---
 

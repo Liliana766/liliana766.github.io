@@ -12,9 +12,9 @@ author: Liliana Pająk
 
 # 🎥📸 Fotobudka 360 – Nowy wymiar wspomnień! 🚀✨  
 
-Szukasz **unikalnej atrakcji** na swoje wydarzenie? Nasza **Fotobudka 360** to absolutny hit imprezowy! 🔥  
+Szukasz unikalnej atrakcji na swoje wydarzenie? Nasza Fotobudka 360 to absolutny hit imprezowy! 🔥  
 
-🌟 **Jak to działa?**  
+🌟 ## Jak to działa?  
 Goście stają na specjalnej platformie, a kamera obraca się wokół nich, tworząc **dynamiczne, filmowe ujęcia** w 360 stopniach! Efekty slow motion, przyspieszenia i specjalne filtry sprawiają, że każda chwila staje się wyjątkową pamiątką! 🎞️🎬  
 
 ---
