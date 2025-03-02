@@ -1,12 +1,12 @@
 ---
 layout: post
 title: ✨ Co jeszcze oferujemy?  
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Dodaj wyjątkowy akcent do swojej imprezy! Dzięki naszym dodatkowym opcjom Twoi goście zyskają jeszcze więcej radości, a Ty niezapomniane pamiątki na lata. 📸🎊  
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [album,tło,dojazd ]
+author: Liliana Pająk
 ---
 
 # ✨ Dodatkowe opcję  
