@@ -4,7 +4,7 @@ title: FAQ
 subtitle: Najczęściej zadawane pytania
 ---
 
-
+<img src="/assets/img/.jpg" alt="Opis"/>
 
 <details>
   <summary>1. Co to jest fotolustro?</summary>
