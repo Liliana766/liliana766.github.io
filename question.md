@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 subtitle: Najczęściej zadawane pytania
-cover-img: /assets/www.png
+cover-img: /assets/uuu.png
 ---
 
 <details>
