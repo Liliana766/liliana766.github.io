@@ -4,7 +4,7 @@
 
 ### ✉️ **E-mail**: [fotofuzja360](mailto:kontakt@example.com)
 
-### 📱 **Telefon**: +48 725 025975
+### 📱 **Telefon**: +48 725 025 975
 
 ### 💬 **Media Społecznościowe**:
 - [Facebook](https://www.facebook.com)
