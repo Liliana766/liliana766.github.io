@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-subtitle: Kontakt
+subtitle:
 cover-img:
 ---
 
