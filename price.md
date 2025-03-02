@@ -4,8 +4,8 @@ title: Cennik
 subtitle: Cennik na nasze popularne usługi
 ---
 
-<img src="/assets/img/cennik.png" alt="cennik">
+<img src="/assets/img/cennik.png" alt="cennik-fotolustro">
 
 <br>
 
-<img src="/assets/img/cennik-fotobudka360.jpg" alt="cennik-fotobudka360">
+<img src="/assets/img/cennik-fotobudka360_1.jpg" alt="cennik-fotobudka360">
