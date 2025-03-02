@@ -2,9 +2,8 @@
 layout: page
 title: FAQ
 subtitle: Najczęściej zadawane pytania
+cover-img: /assets/img/PXL_20240530_170757894.jpg
 ---
-
-<img src="/assets/img/PXL_20240530_170757894.jpg" alt="Opis"/>
 
 <details>
   <summary>1. Co to jest fotolustro?</summary>
