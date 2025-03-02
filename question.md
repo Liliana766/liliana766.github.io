@@ -4,6 +4,8 @@ title: FAQ
 subtitle: Najczęściej zadawane pytania
 ---
 
+<img src=/assets/img/"PXL_20240530_170757894.jpg">
+
 <details>
   <summary>1. Co to jest fotolustro?</summary>
   Fotolustro to interaktywne urządzenie łączące zabawę z profesjonalną fotografią. Jest to lustro, które pozwala gościom na robienie zdjęć, wybór tła, dodawanie efektów specjalnych i personalizowanie zdjęć za pomocą dotykowego ekranu.
