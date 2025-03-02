@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: 🎥📸 Fotobudka 360 – Nowy wymiar wspomnień! 🚀✨ 
+subtitle: Szukasz **unikalnej atrakcji** na swoje wydarzenie? Nasza **Fotobudka 360** to absolutny hit imprezowy! 🔥
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [fotobudka360,video,videobudka]
