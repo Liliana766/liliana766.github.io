@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FQA
+title: question
 subtitle: Najczęściej zadawane pytania
 ---
 
