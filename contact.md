@@ -1,5 +1,11 @@
-# **Kontakt - FotoFuzja**
+---
+layout: page
+title: 
+subtitle: 
+cover-img: /assets/img/fotofuzja-background.png
+---
 
+# **Kontakt - FotoFuzja**
 
 Jesteśmy gotowi, aby pomóc Ci zorganizować niezapomniane wydarzenie z fotolustrem i fotobudką 360!  
 
