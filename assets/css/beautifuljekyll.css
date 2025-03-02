@@ -3,6 +3,16 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+@import url('https://fonts.googleapis.com/css2?family=Hitchcut&family=League+Spartan:wght@400;700&display=swap');
+h1 {
+  font-family: 'Hitchcut', sans-serif;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: 'League Spartan', sans-serif;
+  font-size: 30px;
+}
 
 :root {
   /* config file CSS variables */
