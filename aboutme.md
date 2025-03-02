@@ -2,6 +2,7 @@
 layout: page
 title: O mnie
 subtitle: Jak zaczęła się moja przygoda z fotolustrem?
+cover-img: /assets/img/fotofuzja-background.png
 ---
 
 💖 **Moja historia – jak zaczęła się moja przygoda z fotolustrem?**  
