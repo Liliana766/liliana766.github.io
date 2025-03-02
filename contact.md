@@ -1,4 +1,5 @@
 
+# 📞 **Kontakt - FotoFuzja** 📸  
 
 Jesteśmy gotowi, aby pomóc Ci zorganizować niezapomniane wydarzenie z fotolustrem i fotobudką 360!  
 
@@ -8,10 +9,19 @@ Masz pytania, chcesz zarezerwować naszą usługę lub potrzebujesz więcej info
 
 ## **Dane kontaktowe:**  
 
-📧 **E-mail:** [fotofuzja360@gmail.com](mailto:kontakt@fotofuzja.pl)  
-📞 **Telefon:** 725 025 975 
+📧 **E-mail:** [kontakt@fotofuzja.pl](mailto:kontakt@fotofuzja.pl)  
+📞 **Telefon:** 123 456 789  
 
+---
 
+## **Adres:**  
+
+📍 **Adres biura:**  
+FotoFuzja  
+Ul. Przykładowa 12  
+00-123 Warszawa  
+
+---
 
 ## **Social Media:**  
 
@@ -22,8 +32,7 @@ Masz pytania, chcesz zarezerwować naszą usługę lub potrzebujesz więcej info
 ---
 
 **Dojazd:**  
-Dojazd do 50 km od Rzeszowa w cenie usługi. Powyżej 1 zł/km.
-Działamy w wojewódzctwie podkarpackim, lubelski i małopolskim.
+Dojazd do 30 km w cenie usługi. Powyżej 1 zł/km.
 
 ---
 
