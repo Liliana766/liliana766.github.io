@@ -58,6 +58,14 @@ body {
 body > main {
   flex: 1;
 }
+
+summary {
+    font-weight: bold;  /* Pogrubienie punktu */
+}
+
+details {
+    font-weight: normal;  /* Tekst rozsuwany (w obrębie <details>) bez pogrubienia */
+}
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
@@ -105,14 +113,6 @@ hr.small {
   border-width: 0.25rem;
   border-color: inherit;
   border-radius: 0.1875rem;
-}
-
-summary {
-    font-weight: bold;  /* Pogrubienie punktu */
-}
-
-details {
-    font-weight: normal;  /* Tekst rozsuwany (w obrębie <details>) bez pogrubienia */
 }
 
 /* fix in-page anchors to not be behind fixed header */
