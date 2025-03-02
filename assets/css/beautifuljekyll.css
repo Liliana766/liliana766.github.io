@@ -107,6 +107,14 @@ hr.small {
   border-radius: 0.1875rem;
 }
 
+summary {
+    font-weight: bold;  /* Pogrubienie punktu */
+}
+
+details {
+    font-weight: normal;  /* Tekst rozsuwany (w obrębie <details>) bez pogrubienia */
+}
+
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
   content: "";
