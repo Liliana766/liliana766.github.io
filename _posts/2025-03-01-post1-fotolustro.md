@@ -8,7 +8,7 @@ share-img: /assets/img/plik1.jpg
 tags: [fotolustro, pamiątka, zdjęcia]
 
 ---
-### <span style="font-family: 'Copperplate Gothic Light'; font-size: 24px;">✨ Co oferuje fotolustro?</span>  
+### <span style="font-family: 'Copperplate Gothic Light'; font-size: 40px;">✨ Co oferuje fotolustro?</span>  
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="/assets/img/plik1.jpg" alt="Fotolustro – Co oferuje" width="400" style="margin-bottom: 15px;">
@@ -24,7 +24,7 @@ Fotolustro wyposażone jest w wysokiej jakości profesjonalną drukarkę DNP, kt
 
 ---
 
-### <span style="font-family: 'Copperplate Gothic Light'; font-size: 24px;">🎉 Co zapewnia nasze fotolustro?</span>  
+### <span style="font-family: 'Copperplate Gothic Light'; font-size: 40px;">🎉 Co zapewnia nasze fotolustro?</span>  
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="/assets/img/plik2.jpg" alt="Fotolustro – Co zapewnia" width="400" style="margin-bottom: 15px;">
@@ -40,7 +40,7 @@ Możesz dodać imiona, datę wydarzenia, a także wybrać unikalne szablony i t�
 
 ---
 
-### <span style="font-family: 'Copperplate Gothic Light'; font-size: 24px;">🎊 Na jakie wydarzenia?</span>  
+### <span style="font-family: 'Copperplate Gothic Light'; font-size: 40px;">🎊 Na jakie wydarzenia?</span>  
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="/assets/img/plik3.jpg" alt="Fotolustro – Wydarzenia" width="400" style="margin-bottom: 15px;">
