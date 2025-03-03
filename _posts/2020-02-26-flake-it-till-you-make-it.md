@@ -10,7 +10,8 @@ author: Liliana Pająk
 ---
 
 # ✨ Dodatkowe opcję  
-Chcesz, aby Twoje wydarzenie było jeszcze bardziej wyjątkowe? Oferujemy dodatkowe opcje, które sprawią, że wspomnienia z imprezy będą jeszcze piękniejsze! 📸🎉
+
+**Chcesz, aby Twoje wydarzenie było jeszcze bardziej wyjątkowe? Oferujemy dodatkowe opcje, które sprawią, że wspomnienia z imprezy będą jeszcze piękniejsze! 📸🎉**
 
 ## 📖 Album fotograficzny – wyjątkowa pamiątka z Twojego wydarzenia  
 
